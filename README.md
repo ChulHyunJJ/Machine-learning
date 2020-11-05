@@ -35,7 +35,11 @@
 8. FashionMnist 데이터셋을 활용한 다양체 학습.ipynb
 
 ## 예시
-![스크린샷 2020-11-02 오후 8 24 40](https://user-images.githubusercontent.com/42991070/97863096-cb909380-1d49-11eb-9bdb-559fc30094ea.png)
+![스크린샷 2020-11-06 오전 12 41 17](https://user-images.githubusercontent.com/42991070/98262474-018f7b00-1fc9-11eb-9395-734accc0766f.png)
+
+![스크린샷 2020-11-06 오전 12 41 44](https://user-images.githubusercontent.com/42991070/98262488-048a6b80-1fc9-11eb-9abf-36e9c9a6f32a.png)
+
+![스크린샷 2020-11-06 오전 12 42 18](https://user-images.githubusercontent.com/42991070/98262484-03f1d500-1fc9-11eb-97d3-b8a6fe979b46.png)
 
 
 
