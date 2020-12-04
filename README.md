@@ -12,19 +12,19 @@
 ## 파일 내용
  
 ### 수업 자료
-&nbsp;&nbsp;&nbsp;[1. 사이킷런(scikit-learn) 시작.ipynb](https://www.youtube.com/watch?v=eVxGhCRN-xA&list=PL7ZVZgsnLwEEd3-h-jySLz4wT154r7VVr&index=2)
-&nbsp;&nbsp;&nbsp;[2. 선형 모델(Linear Models).ipynb](https://www.youtube.com/watch?v=KLgjSGrl_WI&list=PL7ZVZgsnLwEEd3-h-jySLz4wT154r7VVr&index=3)
-&nbsp;&nbsp;&nbsp;[3. 로지스틱 회귀(Logistic Regression).ipynb](https://www.youtube.com/watch?v=KLgjSGrl_WI&list=PL7ZVZgsnLwEEd3-h-jySLz4wT154r7VVr&index=4)
-&nbsp;&nbsp;&nbsp;[4. 서포트 벡터 머신(Support Vector Machines).ipynb](https://www.youtube.com/watch?v=KLgjSGrl_WI&list=PL7ZVZgsnLwEEd3-h-jySLz4wT154r7VVr&index=5)
-&nbsp;&nbsp;&nbsp;[5. 최근접 이웃(K-Nearest Neighbor).ipynb](https://www.youtube.com/watch?v=KLgjSGrl_WI&list=PL7ZVZgsnLwEEd3-h-jySLz4wT154r7VVr&index=6)
-&nbsp;&nbsp;&nbsp;[6. 나이브 베이즈 분류(Naive Bayes Classification).ipynb](https://www.youtube.com/watch?v=KLgjSGrl_WI&list=PL7ZVZgsnLwEEd3-h-jySLz4wT154r7VVr&index=7)
-&nbsp;&nbsp;&nbsp;[7. 결정 트리(Decision Tree).ipynb](https://www.youtube.com/watch?v=KLgjSGrl_WI&list=PL7ZVZgsnLwEEd3-h-jySLz4wT154r7VVr&index=8)
-&nbsp;&nbsp;&nbsp;[8. 앙상블(Ensemble).ipynb](https://www.youtube.com/watch?v=KLgjSGrl_WI&list=PL7ZVZgsnLwEEd3-h-jySLz4wT154r7VVr&index=9)
-&nbsp;&nbsp;&nbsp;[9. XGBoost, LightGBM.ipynb](https://www.youtube.com/watch?v=KLgjSGrl_WI&list=PL7ZVZgsnLwEEd3-h-jySLz4wT154r7VVr&index=10)
-&nbsp;&nbsp;&nbsp;[10. 군집화(Clustering).ipynb](https://www.youtube.com/watch?v=KLgjSGrl_WI&list=PL7ZVZgsnLwEEd3-h-jySLz4wT154r7VVr&index=11)
-&nbsp;&nbsp;&nbsp;[11. 다양체 학습(Manifold Learning).ipynb](https://www.youtube.com/watch?v=KLgjSGrl_WI&list=PL7ZVZgsnLwEEd3-h-jySLz4wT154r7VVr&index=12)
-&nbsp;&nbsp;&nbsp;[12. 분해(Decomposition).ipynb](https://www.youtube.com/watch?v=KLgjSGrl_WI&list=PL7ZVZgsnLwEEd3-h-jySLz4wT154r7VVr&index=13)
-&nbsp;&nbsp;&nbsp;[13. 추천 시스템(Recommender System).ipynb](https://www.youtube.com/watch?v=KLgjSGrl_WI&list=PL7ZVZgsnLwEEd3-h-jySLz4wT154r7VVr&index=14)
+&nbsp;&nbsp;&nbsp;[1. 사이킷런(scikit-learn) 시작.ipynb](https://www.youtube.com/watch?v=eVxGhCRN-xA&list=PL7ZVZgsnLwEEd3-h-jySLz4wT154r7VVr&index=2)<br>
+&nbsp;&nbsp;&nbsp;[2. 선형 모델(Linear Models).ipynb](https://www.youtube.com/watch?v=KLgjSGrl_WI&list=PL7ZVZgsnLwEEd3-h-jySLz4wT154r7VVr&index=3)<br>
+&nbsp;&nbsp;&nbsp;[3. 로지스틱 회귀(Logistic Regression).ipynb](https://www.youtube.com/watch?v=KLgjSGrl_WI&list=PL7ZVZgsnLwEEd3-h-jySLz4wT154r7VVr&index=4)<br>
+&nbsp;&nbsp;&nbsp;[4. 서포트 벡터 머신(Support Vector Machines).ipynb](https://www.youtube.com/watch?v=KLgjSGrl_WI&list=PL7ZVZgsnLwEEd3-h-jySLz4wT154r7VVr&index=5)<br>
+&nbsp;&nbsp;&nbsp;[5. 최근접 이웃(K-Nearest Neighbor).ipynb](https://www.youtube.com/watch?v=KLgjSGrl_WI&list=PL7ZVZgsnLwEEd3-h-jySLz4wT154r7VVr&index=6)<br>
+&nbsp;&nbsp;&nbsp;[6. 나이브 베이즈 분류(Naive Bayes Classification).ipynb](https://www.youtube.com/watch?v=KLgjSGrl_WI&list=PL7ZVZgsnLwEEd3-h-jySLz4wT154r7VVr&index=7)<br>
+&nbsp;&nbsp;&nbsp;[7. 결정 트리(Decision Tree).ipynb](https://www.youtube.com/watch?v=KLgjSGrl_WI&list=PL7ZVZgsnLwEEd3-h-jySLz4wT154r7VVr&index=8)<br>
+&nbsp;&nbsp;&nbsp;[8. 앙상블(Ensemble).ipynb](https://www.youtube.com/watch?v=KLgjSGrl_WI&list=PL7ZVZgsnLwEEd3-h-jySLz4wT154r7VVr&index=9)<br>
+&nbsp;&nbsp;&nbsp;[9. XGBoost, LightGBM.ipynb](https://www.youtube.com/watch?v=KLgjSGrl_WI&list=PL7ZVZgsnLwEEd3-h-jySLz4wT154r7VVr&index=10)<br>
+&nbsp;&nbsp;&nbsp;[10. 군집화(Clustering).ipynb](https://www.youtube.com/watch?v=KLgjSGrl_WI&list=PL7ZVZgsnLwEEd3-h-jySLz4wT154r7VVr&index=11)<br>
+&nbsp;&nbsp;&nbsp;[11. 다양체 학습(Manifold Learning).ipynb](https://www.youtube.com/watch?v=KLgjSGrl_WI&list=PL7ZVZgsnLwEEd3-h-jySLz4wT154r7VVr&index=12)<br>
+&nbsp;&nbsp;&nbsp;[12. 분해(Decomposition).ipynb](https://www.youtube.com/watch?v=KLgjSGrl_WI&list=PL7ZVZgsnLwEEd3-h-jySLz4wT154r7VVr&index=13)<br>
+&nbsp;&nbsp;&nbsp;[13. 추천 시스템(Recommender System).ipynb](https://www.youtube.com/watch?v=KLgjSGrl_WI&list=PL7ZVZgsnLwEEd3-h-jySLz4wT154r7VVr&index=14)<br>
 
 ### 과제
 1. 다른 예제 데이터로 사이킷런 사용하기.ipynb
